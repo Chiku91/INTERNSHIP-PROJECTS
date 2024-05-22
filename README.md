@@ -1,2 +1,2 @@
 # CODESOFT
-Contains the project links for codesoft internship
+Contains the project links for codesoft internship.
